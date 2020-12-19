@@ -1,2 +1,2 @@
 # c-sharp-learning
-SIr, as yesterday is my first day, so I started with learning c#. In this I have made various examples to understand different keywords and syntax of c#.
+SIr, This is my first day, so I started with learning c#. In this I have made various examples to understand different keywords and syntax of c#.
